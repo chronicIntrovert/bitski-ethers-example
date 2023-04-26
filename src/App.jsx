@@ -4,7 +4,7 @@ import { ethers } from "ethers";
 
 const bitski = new Bitski(
   "1812bcfa-44ab-48e3-87b2-b06de6c8e89d",
-  "https://6wxqji-5173.csb.app/callback.html"
+  "https://e2tc5f-5173.csb.app/callback.html"
 );
 
 function App() {
